@@ -1,7 +1,7 @@
 # Image Classification with TensorFlow
 
 ## Overview
-This script demonstrates basic image classification with TensorFlow and Keras. using a neural network implemented with TensorFlow. The script creates, trains, and evaluates a Neural Network model is able to predict digits from hand-written digits with a high degree of accuracy.
+This script demonstrates basic image classification with TensorFlow and Keras. The script creates, trains, and evaluates a neural network model is able to predict digits from hand-written digits with a high degree of accuracy.
 
 ## Key Features
 - Loads the MNIST dataset [mnist.npz](/mnist.npz)
